@@ -6,3 +6,8 @@ Asus
 Western Digital
 Apple
 Symantec
+Splunk
+Puppet
+Red Hat
+Ansible
+Salt Stack
