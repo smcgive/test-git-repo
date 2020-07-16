@@ -1,0 +1,8 @@
+IBM
+HP
+Micro Focus
+Dell
+Asus
+Western Digital
+Apple
+Symantec
