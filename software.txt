@@ -1,0 +1,12 @@
+MS office
+Windows 10
+Symantec Antivirus
+Micro Focus Operations Orchestration
+Micro Focus Server Automation
+Ansible
+Puppet
+Adobe Acrobat
+Adobe Reader
+Google Chrome
+Mozilla Firefox
+Git Developer
